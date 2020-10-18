@@ -1,0 +1,8 @@
+export const AUTH_SUCCESS = 'auth_success'
+export const ERROR_MES = 'error_msg'
+export const RECIEVE_USER = 'recieve_user'
+export const RESET_USER = 'reset_user'
+export const RECIEVE_USER_LIST = 'recieve_user_list'
+export const RECIEVE_MSG_LIST = 'recieve_msg_list'
+export const RECIEVE_MSG = 'recieve_msg'
+export const MSG_READ = 'msg_read'
